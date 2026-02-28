@@ -14,5 +14,5 @@
 - Balena Etcher instalado (Nos sirve para bootear la tarjeta sd donde se instala el sistema operativo).
 
 ## Booteo
-1. Descomprime el archivo "'Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img'", automaticamente se crea una carpeta, dentro se encuentra un archivo con extensión .iso.
+1. Descomprime el archivo "_Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img_", automaticamente se crea una carpeta, dentro se encuentra un archivo con extensión .iso.
 2. 
