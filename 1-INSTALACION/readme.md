@@ -1,4 +1,4 @@
-# Instalación del Sistema Operativo Armbian
+<img width="474" height="372" alt="image" src="https://github.com/user-attachments/assets/3f5a3610-67f6-4529-a6af-58035143ff29" /># Instalación del Sistema Operativo Armbian
 ## ENLACES
 - Armbian Debian 12 (Bookworm) minimal: https://www.armbian.com/orange-pi-zero-2w/.
 - Balena Etcher: https://etcher.balena.io/
@@ -18,6 +18,19 @@
   (Nos sirve para bootear la tarjeta sd donde se instala el sistema operativo).
 
 ## Booteo
-1. Descomprime el archivo "_Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img_", automaticamente se crea una carpeta, dentro se encuentra un archivo con extensión .iso.
+1. Descomprime el archivo "_Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img_", automaticamente se crea una carpeta, dentro se encuentra un archivo con extensión .iso
+<p align="center">
+  <img src="capturas/EXTRAER.jpg" width="600">
+</p>
+<p align="center">
+  <img src="capturas/ARCHIVO.jpg" width="600">
+</p>
 
-3. 
+2. Ejecuta balena etcher como Administrador.
+Si no se ejecuta como admnistrador el proceso de booteo fallará.
+
+4. Selecciona el SO que está dentro de la carpeta extraida, luego la tarjeta sd y finalmente presionas Flash!.
+<p align="center">
+  <img src="capturas/BalenaEtcher.jpg" width="600">
+</p>
+   
