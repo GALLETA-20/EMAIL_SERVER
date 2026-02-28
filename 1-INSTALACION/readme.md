@@ -1,8 +1,8 @@
 # Instalación del Sistema Operativo Armbian
 ## ENLACES
-Armbian Debian 12 (Bookworm) minimal: https://www.armbian.com/orange-pi-zero-2w/.
-Balena Etcher: https://etcher.balena.io/
-Manual del fabricante Orange Pi: https://drive.google.com/drive/folders/1KIZMMDBlqf1rKmOEhGH7_7A-COAgYoGZ
+- Armbian Debian 12 (Bookworm) minimal: https://www.armbian.com/orange-pi-zero-2w/.
+- Balena Etcher: https://etcher.balena.io/
+- Manual del fabricante Orange Pi: https://drive.google.com/drive/folders/1KIZMMDBlqf1rKmOEhGH7_7A-COAgYoGZ
 
 ## Requisitos
 - Una tarjeta SD de clase 10 o mayor, con capacidad superior a 8 GB y de la marca SanDisk (Si se    usa otra sd que no cumpla con estas características, el sistema puede presentar fallos).
