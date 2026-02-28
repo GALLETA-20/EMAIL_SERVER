@@ -1,4 +1,4 @@
-<img width="474" height="372" alt="image" src="https://github.com/user-attachments/assets/3f5a3610-67f6-4529-a6af-58035143ff29" /># Instalación del Sistema Operativo Armbian
+# Instalación del Sistema Operativo Armbian
 ## ENLACES
 - Armbian Debian 12 (Bookworm) minimal: https://www.armbian.com/orange-pi-zero-2w/.
 - Balena Etcher: https://etcher.balena.io/
