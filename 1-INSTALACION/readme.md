@@ -5,7 +5,11 @@
 - Manual del fabricante Orange Pi: https://drive.google.com/drive/folders/1KIZMMDBlqf1rKmOEhGH7_7A-COAgYoGZ
 
 ## Requisitos
-- Una tarjeta SD de clase 10 o mayor, con capacidad superior a 8 GB y de la marca SanDisk (Si se    usa otra sd que no cumpla con estas características, el sistema puede presentar fallos).
+- Una tarjeta SD con las siguientes características:
+  a. De clase 10 o mayor.
+  b. Capacidad superior a 8 GB.
+  c. Marca SanDisk
+  (Si se    usa otra sd que no cumpla con estas características, el sistema puede presentar         fallos).
 - La Orange Pi Zero 2W es un dispostivo pequeño y con ram limitada (el tamáño máximo es de 4 GB     de ram), se instala el sistema operativo Debian 12 (Bookworm) versión mínimal. Así tenemos un     sistema limpio, libre de servicios que no necesitamos.
 - Es necesario tener el programa Balena Etcher instalado para poder bootear la tarjeta sd donde     se instala el sistema operativo.
 
