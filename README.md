@@ -14,5 +14,3 @@ En este repositorio se documentan algunos servicios específicos. El sistema ope
 3. Configuración del módulo g_ether.
 4. Configuración de IP estática.
 
-## ENLACES:
-DESCARGA DEL SO: https://www.armbian.com/orange-pi-zero-2w/.
