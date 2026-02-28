@@ -15,4 +15,5 @@
 
 ## Booteo
 1. Descomprime el archivo "_Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img_", automaticamente se crea una carpeta, dentro se encuentra un archivo con extensión .iso.
-2. 
+
+3. 
