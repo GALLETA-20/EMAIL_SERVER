@@ -1,10 +1,18 @@
-# PRIMEROS PASOS Y CONFIGURACIÓN DE LA ORANGE PI ZERO 2W CON ARMBIAN
-##  Descripción
+# Configuración de Armbian en la Orange Pi Zero 2W para base de servidor local
+## Descripción
 
-En este repositorio se hablará de los primeros pasos que se realizan al instalar el Sistema Operativo (SO) en una Single Board Computer (SBC), Orange Pi Zero 2W.
-El SO operativo que se trabaja es Debian 12 (Bookworm), descargado de la pagina oficial de Armbian, https://www.armbian.com/orange-pi-zero-2w/.
+Este repositorio describe la configuración del Sistema Operativo (SO) Armbian, basado en Debian 12 (Bookworm), como base de servidor local destinado a implementar servicios, tales como servidor web, servidor de correo electrónico, base de datos u otros servicios adicionales en la Orange Pi Zero 2W.
 
-El repositorio tiene una serie de archivos con un manual en cada uno de ellos junto a scripts y archivos de configuración. Algunos pasos se pueden omitir siempre y cuando no sean prerequisitos de otro.
+El repositorio está organizado en carpetas con los nombres de los servicios o programas. Cada una de ellas contiene la documentación técnica y scripts necesarios para el correcto funcionamiento del programa o servicio correspondiente. Algunos pasos se pueden omitir siempre y cuando no formen parte de los requisitos previos de un servicio que se desee implementar. 
 
-El objetico es condicionar el SO para trabajar como servidor HOST y tenga servicios disponibles (servicoo de correo electrónico, pagina web, entre otros servicios que desee el administrador).
-En este repositorio solo se trabajará algunos servicios, pero el SO ya tendrá una base sólida para los demas servicios.
+
+En este repositorio se documentan algunos servicios específicos. El sistema operativo queda preparado para incorporar otros servicios.
+
+## Índice:
+1. Instalación del Sistema Operativo.
+2. Actualización del sistema.
+3. Configuración del módulo g_ether.
+4. Configuración de IP estática.
+
+## ENLACES:
+DESCARGA DEL SO: https://www.armbian.com/orange-pi-zero-2w/.
