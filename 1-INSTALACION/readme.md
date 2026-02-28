@@ -14,6 +14,7 @@
 
   (La Orange Pi Zero 2W es un dispostivo pequeño y con ram limitada, se instala la versión minimal para tener un sistema limpio, libre de servicios que no necesitamos.
 - Balena Etcher instalado
+
   (Nos sirve para bootear la tarjeta sd donde se instala el sistema operativo).
 
 ## Booteo
