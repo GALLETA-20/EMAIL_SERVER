@@ -13,7 +13,7 @@ Cuando el sistema operativo arranca por primera vez, el sistema pedirá informac
 > 
 > `Ojo: Algunas opciones se seleccionan ingresando el número correspondiente de la lista mostrada.`
 
-## Actualización del sistema
+## Requisito antes de la actualización del sistema
 Antes de actualizar el sistema hay que comprobar la fecha y hora registradas.  
 
 Ejecutar el comando `timedatectl`.  
@@ -30,3 +30,14 @@ System clock synchronized: yes
           RTC in local TZ: no
 ```
 La información que muestra `Local time` debe ser igual a la hora y el día que registra su región.
+
+## Actualización del sistema
+1. Ejecutar:
+   `# sudo apt update`
+   Esperar a que el sistema termine de actualizar los repositorios.
+   
+2. Ejecutar:
+   `# sudo apt upgrade -y`
+   Esperar a que el sistema termine de actualizar.
+   > `⚠️ Advertencia: No apagar la Orange Pi ni interrumpir el proceso de actualización.  
+   > Si se interrumpe, pueden corromperse los archivos y el sistema puede quedar inutilizable` 
