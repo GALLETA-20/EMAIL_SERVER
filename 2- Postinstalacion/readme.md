@@ -5,7 +5,7 @@ Cuando el sistema operativo arranca por primera vez, el sistema pedirá informac
   - Creación de usuario:
     - Nombre de usuario.
     - Contraseña de usuario. 
-  - Zona Horario.
+  - Zona Horaria.
   - Idioma y distribución del teclado.
   - Configuración de red.
 
