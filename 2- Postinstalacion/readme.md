@@ -39,5 +39,6 @@ La información que muestra `Local time` debe ser igual a la hora y el día que 
 2. Ejecutar:
    `# sudo apt upgrade -y`
    Esperar a que el sistema termine de actualizar.
-   > `⚠️ Advertencia: No apagar la Orange Pi ni interrumpir el proceso de actualización.  
-   > Si se interrumpe, pueden corromperse los archivos y el sistema puede quedar inutilizable` 
+   ```⚠️ Advertencia: No apagar la Orange Pi ni interrumpir el proceso de actualización.
+   Si se interrumpe, pueden corromperse los archivos y el sistema puede quedar inutilizable.
+   ```
