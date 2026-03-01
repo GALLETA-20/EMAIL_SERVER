@@ -1,10 +1,10 @@
 # Instalación del Sistema Operativo Armbian
-## Enlaces
+## 1. Enlaces
 - Armbian Debian 12 (Bookworm) minimal: https://www.armbian.com/orange-pi-zero-2w/.
 - Balena Etcher: https://etcher.balena.io/
 - Manual del fabricante Orange Pi: https://drive.google.com/drive/folders/1KIZMMDBlqf1rKmOEhGH7_7A-COAgYoGZ
 
-## Requisitos
+## 2. Requisitos
 - Una tarjeta SD con las siguientes características:
   1. De clase 10 o mayor.
   2. Capacidad superior a 8 GB.
@@ -17,8 +17,8 @@
 
   Se utiliza para grabar (flashear) la imagen del sistema operativo en la tarjeta SD.
 
-## Flasheo
-1. Descomprime el archivo 'Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img.xz', automáticamente se crea una carpeta. Dentro se encuentra un archivo con extensión **.img**, que será la imagen que se grabará en la tarjeta SD.
+## 3. Flasheo de la imagen en la tarjeta SD.
+1. Descomprime el archivo 'Armbian_25.5.1_Orangepizero2w_bookworm_current_6.12.23_minimal.img.xz', automáticamente se crea una carpeta. Dentro se encuentra un archivo con extensión **.img**, el cual será grabado en la tarjeta SD usando Balena Etcher.
 <p align="center">
   <img src="capturas/EXTRAER.jpg" width="600">
 </p>
@@ -26,13 +26,13 @@
   <img src="capturas/ARCHIVO.jpg" width="600">
 </p>
 
-2. Ejecuta **Balena Etcher** con privilegios de Administrador.
+2. Ejecuta **Balena Etcher** con privilegios de administrador.
    > Si no se ejecuta con privilegios de administrador, el proceso de booteo fallará.
 
 3. Selecciona:
-   - La imagen `.img` extraída.
-   - La tarjeta SD.
-   - Presiona **Flash!**.
+   1. La imagen `.img` extraída.
+   2. La tarjeta SD.
+   3. Presiona **Flash!**.
 <p align="center">
   <img src="capturas/BalenaEtcher.jpg" width="600">
 </p>
