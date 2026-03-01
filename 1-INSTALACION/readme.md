@@ -1,5 +1,5 @@
 # Instalación del Sistema Operativo Armbian
-## ENLACES
+## Enlaces
 - Armbian Debian 12 (Bookworm) minimal: https://www.armbian.com/orange-pi-zero-2w/.
 - Balena Etcher: https://etcher.balena.io/
 - Manual del fabricante Orange Pi: https://drive.google.com/drive/folders/1KIZMMDBlqf1rKmOEhGH7_7A-COAgYoGZ
