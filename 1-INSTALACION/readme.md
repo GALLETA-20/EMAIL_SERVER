@@ -38,7 +38,7 @@
 </p>
 
 4. Cuando el proceso de flasheo termine, desconectar la tarjeta SD de la computadora y conectarla la Orange Pi Zero 2W.
-   > Nota: Energizar la placa suando el cable usb conectado a la computadora. Esto nos permitirá usar la conexión USB (interfaz **usb0**) para tener conexión a internet.
+   > Nota: Energizar la placa suando el cable usb conectado a la computadora. Esto nos permitirá usar la conexión USB (interfaz **USB0**) para tener conexión a internet.
 <p align="center">
   <img src="capturas/usb0.jpg" width="600">
 </p>
