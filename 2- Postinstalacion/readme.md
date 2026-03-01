@@ -14,10 +14,9 @@ Cuando el sistema operativo arranca por primera vez, el sistema pedirá informac
 > `Ojo: Algunas opciones se seleccionan ingresando el número correspondiente de la lista mostrada.`
 
 ## Actualización del sistema
-Antes de actualizar el sistema hay que comprobar la fecha y hora registradas.
-
+Antes de actualizar el sistema hay que comprobar la fecha y hora registradas.  
 Ejecutar:
-`root @ orangepizero2w: ~ # timedatectl`
+`root @ orangepizero2w: ~ # timedatectl`  
 La respuesta del sistema será:
 ```
 root @ orangepizero2w: ~ # timedatectl
