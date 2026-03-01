@@ -18,8 +18,7 @@ Antes de actualizar el sistema hay que comprobar la hora y día que registra el 
 `$ timedatectl`
 La respuesta del sistema será:
 ```
-root @ orangepizero2w: ~
--> timedatectl
+root @ orangepizero2w: ~ $ timedatectl
                Local time: dom 2026-03-01 00:49:02 -05
            Universal time: dom 2026-03-01 05:49:02 UTC
                  RTC time: dom 2026-03-01 05:48:31
