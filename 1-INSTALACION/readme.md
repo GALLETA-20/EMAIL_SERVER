@@ -27,7 +27,7 @@
 </p>
 
 2. Ejecuta **Balena Etcher** con privilegios de administrador.
-   > Si no se ejecuta con privilegios de administrador, el proceso de booteo fallará.
+   > Si no se ejecuta con privilegios de administrador, el proceso de flasheo fallará.
 
 3. Selecciona:
    1. La imagen `.img` extraída.
