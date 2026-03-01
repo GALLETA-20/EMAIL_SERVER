@@ -29,8 +29,9 @@
 2. Ejecuta balena etcher como Administrador.
 Si no se ejecuta como admnistrador el proceso de booteo fallará.
 
-4. Selecciona el SO que está dentro de la carpeta extraida, luego la tarjeta sd y finalmente presionas Flash!.
+3. Selecciona el SO que está dentro de la carpeta extraida, luego la tarjeta sd y finalmente presionas Flash!.
 <p align="center">
   <img src="capturas/BalenaEtcher.jpg" width="600">
 </p>
-   
+
+
