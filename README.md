@@ -10,7 +10,7 @@ En este repositorio se documentan algunos servicios específicos. El sistema ope
 
 ## Índice:
 1. Instalación del Sistema Operativo.
-2. Actualización del sistema.
+2. Postinstalación del sistema.
 3. Configuración del módulo g_ether.
 4. Configuración de IP estática.
 
