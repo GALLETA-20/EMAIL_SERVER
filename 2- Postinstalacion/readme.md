@@ -32,14 +32,14 @@ System clock synchronized: yes
 La información que muestra `Local time` debe ser igual a la hora y el día que registra su región.
 
 ## Actualización del sistema
-1. Ejecutar:
-   `# sudo apt update`
-   Esperar a que el sistema termine de actualizar los repositorios.
+1. Ejecutar:  
+   `# sudo apt update`  
+   Esperar a que el sistema termine de actualizar los repositorios.  
    
-2. Ejecutar:
-   `# sudo apt upgrade -y`
-   Esperar a que el sistema termine de actualizar.
-   ```
-   Advertencia!: No apagar la Orange Pi ni interrumpir el proceso de actualización.
-   Si se interrumpe, pueden corromperse los archivos y el sistema puede quedar inutilizable.
-   ```
+2. Ejecutar:  
+   `# sudo apt upgrade -y`  
+   Esperar a que el sistema termine de actualizar.  
+ ```
+ Advertencia!: No apagar la Orange Pi ni interrumpir el proceso de actualización.
+ Si se interrumpe, pueden corromperse los archivos y el sistema puede quedar inutilizable.
+ ```
