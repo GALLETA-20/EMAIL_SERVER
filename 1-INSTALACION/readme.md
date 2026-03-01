@@ -12,7 +12,7 @@
      > Si se usa otra SD que no cumpla con estas características, el sistema puede presentar fallos.
 - Sistema operativo Debian 12 (Bookworm) versión minimal.
 
-  La Orange Pi Zero 2W es un dispositivo pequeño y con RAM limitada. Se instala la versión minimal para tener un sistema limpio, libre de servicios que no necesitamos.
+  La Orange Pi Zero 2W es un dispositivo compacto con RAM limitada. Se instala la versión minimal para tener un sistema limpio, libre de servicios que no necesitamos.
 - Balena Etcher instalado
 
   Se utiliza para grabar (flashear) la imagen del sistema operativo en la tarjeta SD.
@@ -27,9 +27,12 @@
 </p>
 
 2. Ejecuta Balena Etcher como Administrador.
-   >Si no se ejecuta con privilegios de administrador, el proceso de booteo fallará.
+   > Si no se ejecuta con privilegios de administrador, el proceso de booteo fallará.
 
-3. Selecciona la imagen .img extraída, luego la tarjeta SD y finalmente presionas Flash!.
+3. Selecciona:
+   1. La imagen '.img' extraída.
+   2. La tarjeta SD.
+   3. Presiona **Flash!**.
 <p align="center">
   <img src="capturas/BalenaEtcher.jpg" width="600">
 </p>
