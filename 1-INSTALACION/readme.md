@@ -9,7 +9,7 @@
   1. De clase 10 o mayor.
   2. Capacidad superior a 8 GB.
   3. Marca SanDisk
-  (Si se usa otra sd que no cumpla con estas características, el sistema puede presentar fallos).
+  > Si se usa otra sd que no cumpla con estas características, el sistema puede presentar fallos.
 - Sistema operativo Debian 12 (Bookworm) versión mínimal.
 
   (La Orange Pi Zero 2W es un dispostivo pequeño y con ram limitada, se instala la versión minimal para tener un sistema limpio, libre de servicios que no necesitamos.
