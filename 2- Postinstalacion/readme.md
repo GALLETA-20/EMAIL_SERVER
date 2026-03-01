@@ -15,7 +15,8 @@ Cuando el sistema operativo arranca por primera vez, el sistema pedirá informac
 
 ## Actualización del sistema
 Antes de actualizar el sistema hay que comprobar la fecha y hora registradas.
-`# timedatectl`
+Ejecutar
+`root @ orangepizero2w: ~ # timedatectl`
 La respuesta del sistema será:
 ```
 root @ orangepizero2w: ~ # timedatectl
